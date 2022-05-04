@@ -1,0 +1,5 @@
+**/*.obj
+**/*.xml
+generated/**
+data/**
+**/*.pyc
