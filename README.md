@@ -24,7 +24,17 @@ Feel free to contact us by creating an issue or [email](mailto:pjessesco@gmail.c
 TODO
 
 ## Citation
-TODO
+```
+@ARTICLE{9762256,
+  author={Park, Jino and Jung, Donghyuk and Moon, Bochang},
+  journal={IEEE Access}, 
+  title={Projector Compensation Framework Using Differentiable Rendering}, 
+  year={2022},
+  volume={10},
+  number={},
+  pages={44461-44470},
+  doi={10.1109/ACCESS.2022.3169861}}
+```
 
 ## Credit
 - We used python implementation of TPS by [Christoph Heindl](https://github.com/cheind/). [link](https://github.com/cheind/py-thin-plate-spline)
