@@ -30,3 +30,4 @@ TODO
 - We used python implementation of TPS by [Christoph Heindl](https://github.com/cheind/). [link](https://github.com/cheind/py-thin-plate-spline)
 - We used mitsuba2 for differentiable rendering by [RGL EPFL](https://rgl.epfl.ch/). [link](https://github.com/mitsuba-renderer/mitsuba2)
 - For Image viewer used in projection, we modified a code provided by [Zythyr](https://stackoverflow.com/users/4988010/zythyr) in _stack overflow_. [link](https://stackoverflow.com/a/59539843)
+- For images in `reference` directory, we used dataset provided by [Bingyao Hwang](https://github.com/BingyaoHuang). [link](https://github.com/BingyaoHuang/CompenNeSt-plusplus#benchmark-dataset)
