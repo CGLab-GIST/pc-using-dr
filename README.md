@@ -4,8 +4,8 @@ Author : [Jino Park](https://github.com/pjessesco), [Donghyuk Jung](https://cgla
 Feel free to contact us by creating an issue or [email](mailto:pjessesco@gmail.com), for any question or comment.
 
 ## Prerequisite
-- Our Mitsuba2 fork ([mitsuba2-pc-using-dr](https://https://github.com/CGLab-GIST/mitsuba2-pc-using-dr))
-- Our camera application for iPad Pro ([RCDCamera](https://https://github.com/CGLab-GIST/RCDCamera))
+- Our Mitsuba2 fork ([mitsuba2-pc-using-dr](https://github.com/CGLab-GIST/mitsuba2-pc-using-dr))
+- Our camera application for iPad Pro ([RCDCamera](https://github.com/CGLab-GIST/RCDCamera))
 - Wireless mouse for iPad (not necessary, but recommended)
 
 ## Usage
