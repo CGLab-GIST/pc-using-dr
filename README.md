@@ -1,6 +1,8 @@
 # Projector Compensation Framework using Differentiable Rendering
 Author : [Jino Park](https://github.com/pjessesco), [Donghyuk Jung](https://cglab.gist.ac.kr/people/), and [Bochang Moon](https://cglab.gist.ac.kr/people/bochang.html)
 
+[[Project page]](https://cglab.gist.ac.kr/access22projector/) [[Main Report - Publisher]](https://ieeexplore.ieee.org/document/9762256)
+
 Feel free to contact us by creating an issue or [email](mailto:pjessesco@gmail.com), for any question or comment.
 
 ## Prerequisite
